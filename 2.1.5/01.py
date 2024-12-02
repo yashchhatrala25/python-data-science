@@ -18,7 +18,7 @@ if user_choice == 'A':
     print("Sum of {} and {} = {}".format(opearnd1, opearnd2, opearnd1+opearnd2))
 else:
     if user_choice == 'S':
-        print("Product of {} and {} = {}".format(opearnd1, opearnd2, opearnd1-opearnd2))
+        print("Difference of {} and {} = {}".format(opearnd1, opearnd2, opearnd1-opearnd2))
     else: 
         if user_choice == 'M':
             print("Product of {} and {} = {}".format(opearnd1, opearnd2, opearnd1*opearnd2))
